@@ -1,0 +1,27 @@
+body {
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+.virus-alert {
+    background-color: #ff0000;
+    color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+}
+
+.progress-bar {
+    width: 80%;
+    height: 20px;
+    background-color: #ccc;
+    border-radius: 10px;
+    margin: 20px auto;
+}
+
+.progress {
+    height: 100%;
+    background-color: #007bff;
+    width: 0%;
+}
